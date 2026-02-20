@@ -2,4 +2,11 @@
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://aulas.devclub.com.br">DevClub</a></h2>
+
+<h2>Tecnologias utilizadas</h2>
+<br>
+  - HTML
+  - CSS
+  - JavaScript
+
 <img src="https://github.com/vitoremanuelcruzvieira/marioBros/blob/main/img/Tela_Desktop.png?raw=true" />
