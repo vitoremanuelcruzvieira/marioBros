@@ -5,8 +5,8 @@
 
 <h2>Tecnologias utilizadas</h2>
 <br>
-  - HTML
-  - CSS
-  - JavaScript
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html-logo" />
+<img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white" alt="css-logo" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javaScript-logo" />
 
 <img src="https://github.com/vitoremanuelcruzvieira/marioBros/blob/main/img/Tela_Desktop.png?raw=true" />
