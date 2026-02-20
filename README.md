@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white" alt="css-logo" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javaScript-logo" />
 
-<img src="https://github.com/vitoremanuelcruzvieira/marioBros/blob/main/img/Tela_Desktop.png?raw=true" />
+<img src="https://github.com/vitoremanuelcruzvieira/marioBros/blob/main/img/Tela_Desktop.png?raw=true" width=300px />
